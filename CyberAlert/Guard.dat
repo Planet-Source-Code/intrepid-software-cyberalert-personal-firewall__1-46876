@@ -1,0 +1,21 @@
+[HACKERS]
+21=for allowing remote access to some files Some trojans can ovveride security on the FTP Program to allow total access for hackers
+FTP=for allowing remote access to some files Some trojans can ovveride security on the FTP Program to allow total access for hackers
+23=for remote access to files Some trojans can ovveride security on the TELNET program allowing them to access all your files
+TELNET=for remote access to files Some trojans can ovveride security on the TELNET program allowing them to access all your files
+25=for sending email messages to servers This could be used by a hacker to spam email servers
+SMTP=for sending email messages to servers This could be used by a hacker to spam email servers
+79=for getting some computer information This could be utilized by hackers to gain valuable information
+FINGER=for getting some computer information This could be utilized by hackers to gain valuable information
+80=as a webserver If you do not have a webserver running this could be a trojan
+HTTP=as a webserver If you do not have a webserver running this could be a trojan
+110=as a mailserver If you do not have a mailserver running this could be a trojan
+POP3=as a mailserver If you do not have a mailserver running this could be a trojan
+113=used for a rich source of information by hackers
+IDENT=used for a rich source of information by hackers
+135=for Remote Procedure Calling for windows Easily utilized by hackers
+RPC=for Remote Procedure Calling for windows Easily utilized by hackers
+139=for NETBIOS for remote computer access
+NetBIOS=for NetBIOS for remote computer access
+5000=for universal plug n play, a service for detecting hardware If you dont need it / arent using it, this insecure protocol could be allowing hackers access to your computer
+UPnP=for universal plug n play, a service for detecting hardware If you dont need it / arent using it, this insecure protocol could be allowing hackers access to your computer
